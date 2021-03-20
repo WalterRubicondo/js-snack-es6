@@ -1,0 +1,51 @@
+.cucciolo_maschio i {
+  color: 	rgb(173,216,230);
+}
+
+.giovane_maschio i {
+  color: rgb(0,191,255);
+}
+
+.adulto_maschio i {
+  color: rgb(30,144,255);
+}
+
+.anziano_maschio i {
+  color:	rgb(0,0,255);
+}
+
+.cucciolo_femmina i {
+  color: 	rgb(255,192,203);
+}
+
+.giovane_femmina i {
+  color: rgb(255,182,193);
+}
+
+.adulto_femmina i {
+  color: rgb(255,105,180);
+}
+
+.anziano_femmina i {
+  color:	rgb(255,20,147);
+}
+
+.cucciolo_op1 i {
+  opacity: 0.3;
+}
+
+.giovane_op2 i {
+  opacity: 0.6;
+}
+
+.anziano_op3 i {
+  opacity: 1;
+}
+
+.azzurro i {
+  color: rgb(0,0,255)
+}
+
+.rosa i {
+  color: rgb(255,192,203)
+}

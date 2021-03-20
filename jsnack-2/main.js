@@ -37,7 +37,6 @@ for (let i = 0; i < squadre.length; i++) {
   squadre[i].punti_fatti = numeri(0, 42);
   squadre[i].falli_subiti = numeri(0, 24);
 
-
   const {nome, falli_subiti} = squadre[i];
   risultati.push({
     nome,
@@ -48,8 +47,6 @@ for (let i = 0; i < squadre.length; i++) {
 
 
 console.log(risultati);
-
-
 })
 
 
